@@ -1,9 +1,4 @@
 # maven-project
 
 Simple Maven Project
-india
-nagpur
-one more
-last time
-ekdum last bhau
-zal n  bhau
+new line added
